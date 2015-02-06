@@ -17,25 +17,25 @@
 
 @import "../../scss/lib/placeholders.scss";
 
-@import "../../scss/componentes/reset.scss";
+@import "../../scss/base/reset.scss";
 
-@import "../../scss/componentes/fuentes.scss";
+@import "../../scss/base/fuentes.scss";
 
-@import "../../scss/componentes/links.scss";
+@import "../../scss/base/links.scss";
 
 @import "../../scss/componentes/tablas.scss";
 
 @import "../../scss/componentes/botones.scss";
 
-@import "../../scss/componentes/elementos.scss";
+@import "../../scss/base/elementos.scss";
 
-@import "../../scss/componentes/tipografia.scss";
+@import "../../scss/base/tipografia.scss";
 
-@import "../../scss/layout/navegacion.scss";
+@import "../../scss/componentes/navegacion.scss";
 
-@import "../../scss/layout/paginacion.scss";
+@import "../../scss/componentes/paginacion.scss";
 
-@import "../../scss/componentes/formularios.scss";
+@import "../../scss/base/formularios.scss";
 
 @import "../../scss/layout/sitio.scss";
 
